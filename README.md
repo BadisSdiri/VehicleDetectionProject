@@ -16,7 +16,7 @@ This project detects and tracks vehicles in a video, calculates their speed, and
 
 ## Demo
 
-![Demo Screenshot](screenshots.png)
+![Demo Screenshot](screenshots.PNG)
 
 ---
 
