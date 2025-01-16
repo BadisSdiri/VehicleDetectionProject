@@ -24,6 +24,6 @@ This project detects and tracks vehicles in a video, calculates their speed, and
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/vehicle-detection.git]
+   git clone [https://github.com/BadisSdiri/VehicleDetectionProject.git]
    cd vehicle-detection
  
